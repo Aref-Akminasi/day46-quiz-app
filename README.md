@@ -27,4 +27,4 @@ Users should be able to:
 
 - HTML5
 - CSS3
-- JavaScript My project
+- JavaScript
